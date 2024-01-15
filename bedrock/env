@@ -1,1 +1,28 @@
+DB_NAME='gxzfvwvu'
+ DB_USER='gxzfvwvu'
+ DB_PASSWORD='yQ-06KdE-FbocXexcv5SDTwSuQNsFbi9'
+ DB_HOST='batyr.db.elephantsql.com'
+# Optionally, you can use a data source name (DSN)
+# When using a DSN, you can remove the DB_NAME, DB_USER, DB_PASSWORD, and DB_HOST variables
+# DATABASE_URL='postgres://gxzfvwvu:yQ-06KdE-FbocXexcv5SDTwSuQNsFbi9@batyr.db.elephantsql.com/gxzfvwvu'
 
+# Optional database variables
+
+# DB_PREFIX='wp_'
+
+WP_ENV='development'
+WP_HOME='http://localhost/web/'
+WP_SITEURL="http://localhost/web/"
+
+# Specify optional debug.log path
+# WP_DEBUG_LOG='/path/to/debug.log'
+
+# Generate your keys here: https://roots.io/salts.html
+AUTH_KEY='generatdsdsme'
+SECURE_AUTH_KEY='genersdsdsdateme'
+LOGGED_IN_KEY='generdasdaateme'
+NONCE_KEY='generatasdasdeme'
+AUTH_SALT='generatsadasdeme'
+SECURE_AUTH_SALT='generatsadaseme'
+LOGGED_IN_SALT='generatasdaseme'
+NONCE_SALT='generasadasdteme'
