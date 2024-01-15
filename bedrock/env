@@ -11,8 +11,8 @@ DB_NAME='gxzfvwvu'
 # DB_PREFIX='wp_'
 
 WP_ENV='development'
-WP_HOME='http://localhost/web/'
-WP_SITEURL="http://localhost/web/"
+WP_HOME='https://gssusss.github.io/mangalarga/web'
+WP_SITEURL="https://gssusss.github.io/mangalarga/web"
 
 # Specify optional debug.log path
 # WP_DEBUG_LOG='/path/to/debug.log'
