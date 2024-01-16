@@ -1,7 +1,7 @@
-DB_NAME='gxzfvwvu'
- DB_USER='gxzfvwvu'
- DB_PASSWORD='yQ-06KdE-FbocXexcv5SDTwSuQNsFbi9'
- DB_HOST='batyr.db.elephantsql.com'
+DB_NAME='sql5677303'
+ DB_USER='sql5677303'
+ DB_PASSWORD='N1eqYJXyN'
+ DB_HOST='sql5.freemysqlhosting.net'
 # Optionally, you can use a data source name (DSN)
 # When using a DSN, you can remove the DB_NAME, DB_USER, DB_PASSWORD, and DB_HOST variables
 # DATABASE_URL='postgres://gxzfvwvu:yQ-06KdE-FbocXexcv5SDTwSuQNsFbi9@batyr.db.elephantsql.com/gxzfvwvu'
