@@ -4,10 +4,10 @@
  * This file is required in the root directory so WordPress can find it.
  * WP is hardcoded to look in its own directory or one directory up for wp-config.php.
  */
-define('DB_NAME', 'mi-sitio');
-define('DB_USER', 'mi-sitio');
-define('DB_PASSWORD', 'mi-sitio');
-define('DB_HOST', 'localhost');
+define('DB_NAME', 'sql5677303');
+define('DB_USER', 'sql5677303');
+define('DB_PASSWORD', 'N1eqYJXyN');
+define('DB_HOST', 'sql5.freemysqlhosting.net');
 require_once dirname(__DIR__) . '/vendor/autoload.php';
 require_once dirname(__DIR__) . '/config/application.php';
 require_once ABSPATH . 'wp-settings.php';
