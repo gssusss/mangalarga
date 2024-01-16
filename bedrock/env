@@ -11,10 +11,8 @@ DB_NAME='sql5677303'
 # DB_PREFIX='wp_'
 
 WP_ENV='development'
-WP_HOME='https://gssusss.github.io/mangalarga/bedrock
-/web/'
-WP_SITEURL="https://gssusss.github.io/mangalarga/bedrock
-/web/wp/"
+WP_HOME='https://gssusss.github.io/mangalarga/bedrock/web/'
+WP_SITEURL="https://gssusss.github.io/mangalarga/bedrock/web/wp/"
 
 # Specify optional debug.log path
 # WP_DEBUG_LOG='/path/to/debug.log'
